@@ -1,0 +1,21 @@
+.container{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    background-color: darkgrey;
+}
+h3{
+    text-align: center;
+}
+.ppic{
+    text-align: center;
+}
+.col1{
+    border: 1px solid darkgray;
+    margin: 15px;
+    padding: 10px;
+}
+.img2{
+    width: auto;
+}
